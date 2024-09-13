@@ -71,7 +71,7 @@ to the true value as well.
 
 
 GARCH models are a tool often  used to model the trajectories of prices on the stock market. A plot of the log returns of the OMX shows a time series with jumps, 
-hence we can try to fit our QMLE model to these data points.
+hence we can try to fit our QMLE model to these data points. This gives us the following results:
 
 α₀: Mean = 0.1980424 SD = 0.10462402  
 α₁: Mean = 0.1562225 SD = 0.04800268  
