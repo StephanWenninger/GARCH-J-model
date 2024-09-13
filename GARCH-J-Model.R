@@ -1,8 +1,7 @@
 # Clear workspace
 rm(list = ls())
 
-#### Assignment 2 ######
-# 1 GARCH with Jumps
+# GARCH with Jumps
 
 # Load necessary libraries
 library(ggplot2)
