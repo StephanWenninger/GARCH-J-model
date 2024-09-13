@@ -23,18 +23,18 @@ Fit Real Data: Apply both QMLE and exact MLE methods to the real OMX log return 
 
 The parameters are chosen as follows: 
 
-Lambda (λ): 0.5 (Probability of a jump)  
-Mu (μ): 0.2 (Mean of the GARCH model)  
-Alpha Zero (α₀): 0.4 (GARCH parameter alpha_0)  
-Alpha One (α₁): 0.1 (GARCH parameter alpha_1)  
-Beta One (β₁): 0.8 (GARCH parameter beta_1)  
-Mu_k (μₖ): -1.5 (Mean of the jump size)  
-Sigma²_k (σ²ₖ): 40 (Variance of the jump size)  
+λ: 0.5 (Probability of a jump)  
+μ: 0.2 (Mean of the GARCH model)  
+α₀: 0.4 (GARCH parameter alpha_0)  
+α₁: 0.1 (GARCH parameter alpha_1)  
+β₁: 0.8 (GARCH parameter beta_1)  
+μₖ: -1.5 (Mean of the jump size)  
+σ²ₖ: 40 (Variance of the jump size)  
 
 The unconditional mean and variance can now be computed:
 
-Sigma Uncon (σ_uncon): √24.8675 (Unconditional standard deviation)  
-Mu Uncon (μ_uncon): -0.55 (Unconditional mean)  
+σ_uncon: √24.8675 (Unconditional standard deviation)  
+μ_uncon: -0.55 (Unconditional mean)  
 
 
 - Quasi Maximum Likelihood Estimation (QMLE)
