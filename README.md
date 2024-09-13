@@ -76,3 +76,6 @@ hence we can try to fit our QMLE model to these data points. This gives us the f
 α₀: Mean = 0.1980424 SD = 0.10462402  
 α₁: Mean = 0.1562225 SD = 0.04800268  
 β₁: Mean = 0.6868966 SD = 0.12429803
+
+Since we observed inaccuracies in the MLE approach during our Monte Carlo simulation analysis, these findings should be interpreted with caution.   
+Further tests are necessary to improve the model's reliability.
