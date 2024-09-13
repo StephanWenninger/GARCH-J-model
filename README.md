@@ -1,5 +1,5 @@
 # GARCH-J-model
-I conducted this project as part of my studies in Economics at the University of Vienna. It implements and analyzes a GARCH-J model using both simulated and real data (log returns of the OMX index).
+I conducted this project as part of my studies in Econometrics at the University of Vienna. It implements and analyzes a GARCH-J model using both simulated and real data (log returns of the OMX index).
 
 # Model Overview
 The GARCH-J model extends the standard GARCH model by including jumps in returns. This is done by incorporating a jump component that can occur with a certain probability, affecting the overall return and volatility: 
