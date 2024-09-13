@@ -38,7 +38,8 @@ The unconditional mean and variance can now be computed:
 μ_uncon: -0.55 (Unconditional mean)  
 
 
-- Quasi Maximum Likelihood Estimation (QMLE)
+
+- **Quasi Maximum Likelihood Estimation (QMLE)**
 
 ![QMLE](images/EstimatedParametersfromQMLE.png)
 
@@ -51,7 +52,7 @@ The Monte Carlo simulation of the parameters estimates the following values usin
 We can see that while the results for α₁ and β₁ are really close to the true values, the estimates for α₀ are far off on average and have a way higher standard deviation.
 
 
-- Exact Maximum Likelihood  Estimation (MLE)
+- **Exact Maximum Likelihood  Estimation (MLE)**
 
 ![MLE](images/EstimatedParametersfromExactMLE.png)
 
@@ -64,7 +65,7 @@ The Monte Carlo simulation of the parameters estimates the following values usin
 We can see that accounting for the real distribution naturally gives us more exact mean values with lower standard deviations. The average estimate for Alpha zero is now closer
 to the true value as well.
 
-- Fit Real Data: Apply both QMLE and exact MLE methods to the real OMX log return data.
+- **Fit Real Data: Apply both QMLE method to the real OMX log return data.**
 
 ![MLE](images/LogReturns.png)
 
