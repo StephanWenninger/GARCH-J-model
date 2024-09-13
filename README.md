@@ -2,11 +2,12 @@
 I conducted this project as part of my studies in Economics at the University of Vienna. It implements and analyzes a GARCH-J model using both simulated and real data (log returns of the OMX index).
 
 # Model Overview
-The GARCH-J model extends the standard GARCH model by including jumps in returns. This is done by incorporating a jump component that can occur with a certain probability, affecting the overall return and volatility. A Monte Carlo approach is used to assess the empirical distribution of estimated parameters, providing insights into the robustness and reliability of the estimation methods.
+The GARCH-J model extends the standard GARCH model by including jumps in returns. This is done by incorporating a jump component that can occur with a certain probability, affecting the overall return and volatility: 
 
 
 ![Model](images/model.png)
 
+A Monte Carlo approach is used to assess the empirical distribution of estimated parameters, providing insights into the robustness and reliability of the estimation methods.
 
 # Steps
 
