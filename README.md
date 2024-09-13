@@ -18,7 +18,7 @@ Estimate Parameters:
 - Exact Maximum Likelihood  Estimation (MLE): Estimate model parameters using exact maximum likelihood.
 - Monte Carlo Simulation: Perform 100 repetitions to analyze the distribution of estimated parameters.
 
-Fit Real Data: Apply both QMLE and exact MLE methods to the real OMX log return data.
+Fit Real Data: Apply the QMLE method to the real OMX log return data.
 
 # Results
 
